@@ -1,10 +1,13 @@
 .about-body {
+  margin-top: 10px;
   .wrapper {
     max-width: 600px;
     margin: 0 auto;
     color: $color3;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding: 50px;
+    background: rgba(darken($color1, 7%), 0.5);
+    border-radius: 4px;
+
 
     &.thicc {
       max-width: 700px;
