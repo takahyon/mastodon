@@ -1,5 +1,8 @@
-Mastodon
+Mastodon - mstdn-tech.jp instance
 ========
+
+Mastodonのmstdn-tech.jp インスタンスのソースコード。
+インスタンス内の方、新機能の提案など、プルリクを送って頂ければ対応します。
 
 [![Build Status](http://img.shields.io/travis/tootsuite/mastodon.svg)][travis]
 [![Code Climate](https://img.shields.io/codeclimate/github/tootsuite/mastodon.svg)][code_climate]
