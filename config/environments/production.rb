@@ -119,3 +119,5 @@ Rails.application.configure do
     'X-XSS-Protection'       => '1; mode=block',
   }
 end
+
+GA.tracker = "UA-99628432-1"
