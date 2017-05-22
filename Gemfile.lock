@@ -171,6 +171,7 @@ GEM
       addressable (~> 2.4)
       http (~> 2.0)
       nokogiri (~> 1.6)
+    google-analytics-rails (1.1.0)
     hamlit (2.8.1)
       temple (>= 0.8.0)
       thor
@@ -515,6 +516,7 @@ DEPENDENCIES
   font-awesome-rails
   fuubar
   goldfinger
+  google-analytics-rails
   hamlit-rails
   hiredis
   htmlentities
@@ -578,4 +580,4 @@ RUBY VERSION
    ruby 2.4.1p111
 
 BUNDLED WITH
-   1.14.6
+   1.15.0
